@@ -5,9 +5,9 @@
 *
 
 ### Средства
-IDE: Android Studio
-Язык программирования: Kotlin
-Шрифт: Inter
+* IDE: Android Studio
+* Язык программирования: Kotlin
+* Шрифт: Inter
 
 ### Author
 
