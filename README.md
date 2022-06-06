@@ -11,11 +11,11 @@
 
 ### Автор
 
-Stepan Burimov
+Степан Буримов
 
 ### Copyright
 
-Copyright (c) 2022 Stepan Burimov
+Copyright (c) 2022 Степан Буримов
 
 ### Лицензия
 
