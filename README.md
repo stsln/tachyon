@@ -9,7 +9,7 @@
 * Язык программирования: Kotlin
 * Шрифт: Inter
 
-### Author
+### Автор
 
 Stepan Burimov
 
@@ -17,6 +17,6 @@ Stepan Burimov
 
 Copyright (c) 2022 Stepan Burimov
 
-### License
+### Лицензия
 
 Licensed under the GNU GPLv3.
