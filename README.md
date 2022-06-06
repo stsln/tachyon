@@ -4,6 +4,11 @@
 ### Функции
 *
 
+### Средства
+IDE: Android Studio
+Язык программирования: Kotlin
+Шрифт: Inter
+
 ### Author
 
 Stepan Burimov
